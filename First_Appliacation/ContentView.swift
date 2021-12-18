@@ -12,7 +12,7 @@ struct ContentView: View {
         Text("Emil Minosyan")
             .padding()
         //Comment
-        
+        //Test
     }
 }
 
